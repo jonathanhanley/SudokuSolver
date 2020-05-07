@@ -1,6 +1,8 @@
 # SudokuSolver
 Python3 Sudoku solver using the backtracking algorithm. Origninaly an assignment that I moddified to be contained within a class. I also added some other methods.
 
+# Visualization
+[Click here for a visualization](http://jonathanhanley.eu/sudoku/)
 
 ___
 ___
